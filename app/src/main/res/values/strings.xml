@@ -1,0 +1,49 @@
+<resources>
+    <string name="app_name">Foodies</string>
+    <string name="text">New York, US</string>
+    <string name="foodie">Online Food</string>
+    <string name="deli">Delivery!</string>
+    <string name="burgur">Burgurs</string>
+    <string name="pizza">Pizza</string>
+    <string name="deesart">Dessart</string>
+    <string name="fev_food">Search your fev food..</string>
+    <string name="reco">Recommended</string>
+    <string name="chiplo">Chipotle cheesy bugur</string>
+    <string name="chip_price">$20.45</string>
+    <string name="bb">Beef Burgur</string>
+    <string name="food">Foodie</string>
+    <string name="text1">Good</string>
+    <string name="text2">Food</string>
+    <string name="text3">Great</string>
+    <string name="text4">Life !</string>
+    <string name="text5">Get Started</string>
+    <string name="bur">Burgur</string>
+    <string name="pop">Popular</string>
+    <string name="rat">Rating</string>
+    <string name="all">All</string>
+    <string name="bug1">Beef Burgur with Beetrot and Oozy Cheddar</string>
+    <string name="pr1">$ 18.45</string>
+    <string name="star">4 Star</string>
+    <string name="time">35 mins</string>
+    <string name="bacon">Bacon Cheese Stuffed  Burgur with Fries</string>
+    <string name="baconprice">$ 22.45</string>
+    <string name="star5">5 Star</string>
+    <string name="order">My Order</string>
+    <string name="bac1">Bacon Burger</string>
+    <string name="count">2</string>
+    <string name="ac">Apply Coupons</string>
+    <string name="item">Item Total</string>
+    <string name="it">$65.25</string>
+    <string name="dc">$00.00</string>
+    <string name="tax">$05.00</string>
+    <string name="tot">$65.75</string>
+    <string name="text6">A Signature flame-griled beef patty topped with smoked bacon</string>
+    <string name="price44">$44.80</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_main7">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+</resources>
